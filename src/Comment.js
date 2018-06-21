@@ -1,3 +1,3 @@
-class Comment {
-  
+const Comment = function(comment){
+
 }
